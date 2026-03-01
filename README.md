@@ -1,1 +1,1 @@
-# teste1
+# This is the 1st capstone project of my udemy course about html development it's supposed not no have any css or js so that's why it looks really simple
